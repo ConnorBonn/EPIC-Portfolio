@@ -1,43 +1,64 @@
-# Your Name
-Pronouns:
-Email:
-Phone Number:
+# Connor Bonn
+Pronouns:He/Him
+Email: ConnorB809@lpsk12.org
 ## About Me
-* Tell your site viewers more about yourself.
-* What skills, talents, and knowledge do you have? What do you like learning about?
+* I am currently a Sophomore at Heritage High School and Epic Campus.  I have always been interested in math and used
+* to compete in any of the completions I could when I was younger.  I play volleyball recreational and play some
+* basketball.
+* I love learning about history.  Ever since my 8th grade teach Mr Mathay really got me into history I've always wanted
+* to learn more.  History is the best way to understand current and future events.  I also enjoy learning math.  I've
+* always been good at learning patterns and rules and that's all math is I think its fun.  Other than that things like 
+* puzzles and games are what I spend more my time doing.
 ### Strengths
-- What are some of your strengths?
+- I enjoy working on the coding projects that we have done and learning the different kinds of things I can do is 
+- interesting.  I am always willing to learn if I'm stuck on something and I have no issue spending extra time on 
+- projects.
 ### Goals
-- What skills are you working on?
+- Right now I want to get better at specifically recursion, but I also want to learn how to make more things.  As of
+- right now we have only really made different data structures but making something that can actually be used for
+- something is one of my main goals.
 
 ---
 ## EPIC Experience
 
-### Pi's and Python
-* Write a summary of what you learned in this course.  
-* Be sure to incorporate your use of professional workforce readiness skills in addition to the content you learned.
+### Data Structures
+* In this class I learned what different types of data structures were and how they are used.  The main ones we learn
+* are stacks, queues, linked lists, binary trees, and sorting algorithms.  Apart from learn different data structures we
+* also were taught things about how to be more professional and workforce ready.  Every week we had questions to answer
+* and had to set goals for ourselves.  We practiced interview questions with other classes and people in order to learn
+* how to answer questions more clearly and professionally.
 
 ### Workforce Readiness
-- What did you learn through these skills being part of EPIC?
+- Every week we did workforce readiness.  This forced us to work on things that we weren't good at.  I've never been
+- good at working with people, it was one of my main goals. I was pushed to learn to work with people on a project
+- together or just on separate things.
 
 ### Professional Experiences
-- Work Site tours
-- Job shadowing
-- Conferences
-- Professional Organizations
+- SC23 Conference
 
 ---
 ## Projects: 
--  Morse Code - *link to your repo*
-	- Describe the project and it's purpose
-	- Describe what skills you used and what you learned during this project
-- Final Project - *link to your repo*
-	 - Describe the project and it's purpose
-	- Describe what skills you used and what you learned during this project
+-  Binary Search Trees - https://github.com/EPIC-Campus-LPS/binary-search-trees-2-ConnorBonn.git
+	- This project was about a type of data structure where numbers or letters are put into what looks like a tree.
+    - Making the tree helps with several things.  Nodes which are used in the tree are used for multiple different data
+    - structures.  
+	- Doing this project I learned to better understand loops and calling different methods.  It also taught me how
+    - to use recursion and the advantages of it.
+- Reverse Polish Notation - https://github.com/EPIC-Campus-LPS/reverse-polish-notation-henryk-zygalski.git
+	 - This project was about transcribing normal math notation into postfix and prefix notation.  We had to take a 
+     - equation and translate it into postfix and then solve it.  We also had to be able to translate a postfix 
+     - expression back into normal math notation.
+	- The project we did before this was making stacks and queues but this showed more how they can actually be used.  
+    - You can push the numbers into a stack and then pop them out in the order you need or use a queue to store numbers
+    - or operators.
 
 
 ---
 
 ## Education
+- High-school
 ## Awards and Certifications
+- N/A
 ## Skills
+- Java Coding
+
