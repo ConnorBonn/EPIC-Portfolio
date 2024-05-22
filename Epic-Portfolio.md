@@ -63,11 +63,11 @@ Email: BonnConnor@gmail.com
     - You can push the numbers into a stack and then pop them out in the order you need or use a queue to store numbers
     - or operators.
 - Polygon Drawer - https://github.com/EPIC-Campus-LPS/polygondrawer-visually-impaired.git
-	-We made this project to learn multiple different skills such as how to create a basic application and connect things
-	-like the users cursor and buttons to our code and different functions.  During this project we also learned how to
-	-write techincal writing documents and make the entire project clear and concise. A lot of this was very bare bones and
-	-while we did do technical writing it was very basic and simple.  This project was just a good learning experience on 
-	-how to connect different parts of a script together.
+	- We made this project to learn multiple different skills such as how to create a basic application and connect things
+	- like the users cursor and buttons to our code and different functions.  During this project we also learned how to
+	- write techincal writing documents and make the entire project clear and concise. A lot of this was very bare bones and
+	- while we did do technical writing it was very basic and simple.  This project was just a good learning experience on 
+	- how to connect different parts of a script together.
 
 
 ---
